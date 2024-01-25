@@ -15,6 +15,15 @@ const App = () => {
       
           </Toolbar>
         </AppBar>
+        <main>
+          <div>
+            <Container maxWidth="sm">
+              <Typography variant="h2" align="center" color="textPrimary">
+
+              </Typography>
+            </Container>
+          </div>
+        </main>
       </>
     );
 }
